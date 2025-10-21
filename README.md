@@ -39,5 +39,7 @@
 </div>
 
 <div align="center">
- <img width=500 src="https://streak-stats.demolab.com?user=zums-stuff&theme=transparent&hide_border=true&mode=weekly&currStreakNum=B79BFFD7&sideNums=B79BFFD7&ring=B79BFFD7&sideLabels=9D54FFD7&currStreakLabel=B67DFF&dates=CE88EBBA&stroke=B79BFFD7" alt="Streak Stats" />
+ <img width=500 src="https://streak-stats.demolab.com?user=zums-stuff&theme=transparent&hide_border=true&mode=weekly&currStreakNum=B79BFFD7&sideNums=B79BFFD7&ring=B79BFFD7&sideLabels=ffffffff&currStreakLabel=ffffffff&dates=CE88EBBA&stroke=B79BFFD7" alt="Streak Stats" />
+ <img width=500 src="https://github-readme-stats.vercel.app/api?username=zums-stuff&count_private=true&show_icons=true&theme=transparent&rank_icon=github&hide_border=true&border_radius=10&title_color=B79BFFD7&text_color=ffffffff&icon_color=B79BFFD7" alt="README stats" />
+ <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zums-stuff&show_icons=true&theme=transparent&rank_icon=github&hide_border=true&border_radius=10&title_color=B79BFFD7&text_color=ffffffff&icon_color=B79BFFD7&layout=compact&stats_format=bytes" alt="README stats" />
 </div>

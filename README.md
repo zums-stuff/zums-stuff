@@ -33,7 +33,7 @@
 
 
 <div align="center">
- <h2>🖇My Contributions🖇</h2><br>
- <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/zums-stuff/zums-stuff/output/github-contribution-grid-snake.svg" />
+ <h2>🖇My Contributions🖇</h2>
+ <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/zums-stuff/zums-stuff/output/github-contribution-grid-snake-dark.svg" />
   <br/><br/><br/>
 </div>

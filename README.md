@@ -1,7 +1,7 @@
  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zums-stuff.zums-stuff" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=B79BFFD7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Zum!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=B79BFFD7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Zum!" />
 </h1>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -36,4 +36,8 @@
  <h2>🖇My Contributions🖇</h2>
  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/zums-stuff/zums-stuff/output/github-contribution-grid-snake-dark.svg" />
   <br/><br/><br/>
+</div>
+
+<div align="center">
+ <img width=500 src="https://streak-stats.demolab.com?user=zums-stuff&theme=transparent&hide_border=true&mode=weekly&currStreakNum=B79BFFD7&sideNums=B79BFFD7&ring=B79BFFD7&sideLabels=9D54FFD7&currStreakLabel=B67DFF&dates=CE88EBBA&stroke=B79BFFD7" alt="Streak Stats" />
 </div>

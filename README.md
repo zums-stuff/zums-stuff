@@ -7,10 +7,6 @@
 <h2 align="center">
   Competitive Programmer and a WIP Computer Engineer from México ᴍx.
 </h2>
-<hr>
-<div align="center">
-  <h3>Studying at UNAM School of Engineering</h3>
-</div>
 <div align="center">
   <a href="mailto:jafet.hernandez.ed@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
@@ -26,14 +22,28 @@
   </a>
 </div>
 
-
-
+<div align="center">
+  <h3>Studying at UNAM School of Engineering</h3>
+</div>
+<hr>
 <h2 align="center">🔨Languages-Frameworks-Tools⛏</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,dart"/><br>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,latex,linux,arch,flutter" /><br>
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,unity,godot,ai,obsidian" />
 </div>
+
+<h2 align="center">My Outstanding Proyects</h2>
+<div align="center">
+  <a href="https://github.com/zums-stuff/Meteor-Madness">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zums-stuff&repo=Meteor-Madness&hide_border=false&theme=transparent&title_color=B79BFFD7&text_color=ffffffff&icon_color=B79BFFD7&hide_border=true&border_radius=10" alt="Proyecto 1" />
+  </a>
+  
+  <a href="https://github.com/zums-stuff/CPCFI-Webpage">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zums-stuff&repo=CPCFI-Webpage&hide_border=false&theme=transparent&title_color=B79BFFD7&text_color=ffffffff&icon_color=B79BFFD7&hide_border=true&border_radius=10" alt="Proyecto 2" />
+  </a>
+  
+  </div>
 
 <h2 align="center">Competitive Programming</h2>
 <div align="center">

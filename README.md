@@ -28,22 +28,50 @@
 <hr>
 <h2 align="center">🔨Languages-Frameworks-Tools⛏</h2>
 <div align="center">
+  <table>
+    <tr>
+      <td valign="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,dart"/><br>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,latex,linux,arch,flutter" /><br>
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,unity,godot,ai,obsidian" />
+      </td>
+      <td valign="top">
+        <h3 align="center">I'm actually learning:</h3>
+<div align="center">
+  <img src="https://cdn.simpleicons.org/opengl/B79BFFD7" height="120" alt="OpenGL" />
 </div>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
 
 <h2 align="center">My Outstanding Proyects</h2>
 <div align="center">
-  <a href="https://github.com/zums-stuff/Meteor-Madness">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zums-stuff&repo=Meteor-Madness&hide_border=false&theme=transparent&title_color=B79BFFD7&text_color=ffffffff&icon_color=B79BFFD7&hide_border=true&border_radius=10" alt="Proyecto 1" />
-  </a>
-  
-  <a href="https://github.com/zums-stuff/CPCFI-Webpage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zums-stuff&repo=CPCFI-Webpage&hide_border=false&theme=transparent&title_color=B79BFFD7&text_color=ffffffff&icon_color=B79BFFD7&hide_border=true&border_radius=10" alt="Proyecto 2" />
-  </a>
-  
+
+  <table>
+    <tr>
+      <td valign="top">
+        <img src="github-metrics-isocalendar.svg" height="250" alt="Metrics" />
+      </td>
+      <td valign="center">
+        <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zums-stuff&show_icons=true&theme=transparent&rank_icon=github&hide_border=true&border_radius=10&title_color=B79BFFD7&text_color=ffffffff&icon_color=B79BFFD7&layout=compact&stats_format=bytes" alt="README stats" />
+      </td>
+    </tr>
+  </table>
+
+  <div align="center">
+    <a href="https://github.com/zums-stuff/Meteor-Madness">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=zums-stuff&repo=Meteor-Madness&hide_border=false&theme=transparent&title_color=B79BFFD7&text_color=ffffffff&icon_color=B79BFFD7&hide_border=true&border_radius=10" height="100" alt="Proyecto 1" />
+    </a>
+    &nbsp;&nbsp; <a href="https://github.com/zums-stuff/CPCFI-Webpage">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=zums-stuff&repo=CPCFI-Webpage&hide_border=false&theme=transparent&title_color=B79BFFD7&text_color=ffffffff&icon_color=B79BFFD7&hide_border=true&border_radius=10" height="100" alt="Proyecto 2" />
+    </a>
   </div>
+  
+</div>
+
 
 <h2 align="center">Competitive Programming</h2>
 <div align="center">
@@ -61,20 +89,3 @@
     <img src="https://img.shields.io/badge/CSES-Profile-CCB78B?style=for-the-badge&logo=cses&logoColor=white" alt="CSES Profile"/>
   </a>
   </div>
-
-<div align="center">
- <h2>🖇My Contributions🖇</h2>
- <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/zums-stuff/zums-stuff/output/github-contribution-grid-snake-dark.svg" />
-  <br/><br/><br/>
-</div>
-
-<h2 align="center">I'm actually learning:</h2>
-<div align="center">
-  <img src="https://cdn.simpleicons.org/opengl/B79BFFD7" height="120" alt="OpenGL" />
-</div>
-<hr>
-<div align="center">
- <img width=500 src="https://streak-stats.demolab.com?user=zums-stuff&theme=transparent&hide_border=true&mode=weekly&currStreakNum=B79BFFD7&sideNums=B79BFFD7&ring=B79BFFD7&sideLabels=ffffffff&currStreakLabel=ffffffff&dates=CE88EBBA&stroke=B79BFFD7" alt="Streak Stats" />
- <img width=500 src="https://github-readme-stats.vercel.app/api?username=zums-stuff&count_private=true&show_icons=true&theme=transparent&rank_icon=github&hide_border=true&border_radius=10&title_color=B79BFFD7&text_color=ffffffff&icon_color=B79BFFD7" alt="README stats" />
- <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zums-stuff&show_icons=true&theme=transparent&rank_icon=github&hide_border=true&border_radius=10&title_color=B79BFFD7&text_color=ffffffff&icon_color=B79BFFD7&layout=compact&stats_format=bytes" alt="README stats" />
-</div>

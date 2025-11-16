@@ -1,0 +1,31 @@
+name: GitHub Metrics
+on:
+  # Se ejecuta cada 6 horas
+  schedule: [{cron: "0 */6 * * *"}]
+  # Permite ejecutarlo manualmente desde la pestaña "Actions"
+  workflow_dispatch:
+  # Se ejecuta al hacer push a la rama main
+  push: {branches: ["main", "master"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Tu usuario
+          user: zums-stuff
+
+          # Token de GitHub (necesario)
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Nombre del archivo de salida
+          filename: github-metrics-isocalendar.svg
+
+          # --- CONFIGURACIÓN DEL PLUGIN ---
+
+          # Habilitamos solo el plugin de calendario isométrico
+          base: "" 
+          plugin_isocalendar: yes
+
+          # Configuración del plugin (opcional, para que se vea bien)
+          plugin_isocalendar_duration: full-year # Muestra el año completo

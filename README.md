@@ -28,7 +28,7 @@
 <hr>
 <h2 align="center">🔨Languages-Frameworks-Tools⛏</h2>
 <div align="center">
-  <table>
+  <table style="border: 2px solid black;">
     <tr>
       <td valign="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,dart"/><br>
@@ -72,20 +72,26 @@
   
 </div>
 
-
 <h2 align="center">Competitive Programming</h2>
 <div align="center">
   <p>I solve problems in these platforms:</p>
+  
   <a href="https://codeforces.com/profile/zum">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=zum&show_icons=true&theme=transparent&rank_icon=github&title_color=B79BFFD7&text_color=ffffffff&icon_color=B79BFFD7" height="200" alt="Codeforces Stats"/>
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=zum&show_icons=true&theme=dark&rank_icon=github&border_color=00000000&v=5" height="200" alt="Codeforces Stats" valign="top"/>
   </a>
- 
-  <a href="https://leetcode.com/u/zum04/">
-    <img src="https://leetcard.jacoblin.cool/zum04?theme=catppuccinMocha&font=Fira%20Code&title_color=B79BFFD7&icon_color=B79BFFD7&text_color=ffffffff&bg_color=00000000&hide_border=true" height="200" alt="LeetCode Stats"/>
+  &nbsp;&nbsp; <a href="https://leetcode.com/u/zum04/">
+    <img src="https://leetcard.jacoblin.cool/zum04?font=Fira%20Code&theme=dark&border=0&border_radius=15&v=5" height="200" alt="LeetCode Stats" valign="top"/>
   </a>
- 
-  <br><br>
-  <a href="https://cses.fi/user/314973">
+
+  <br><br> <a href="https://cses.fi/user/314973">
     <img src="https://img.shields.io/badge/CSES-Profile-CCB78B?style=for-the-badge&logo=cses&logoColor=white" alt="CSES Profile"/>
   </a>
-  </div>
+  <br>
+  <p></p>
+  <p>... and you can find all my solutions in this repository:</p>
+  <a href="https://github.com/zums-stuff/Competitive-Programming">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zums-stuff&repo=Competitive-Programming&hide_border=false&theme=transparent&title_color=B79BFFD7&text_color=ffffffff&icon_color=B79BFFD7&hide_border=true&border_radius=10" alt="Soluciones de CP"/>
+  </a>
+  
+  <br><br>
+</div>

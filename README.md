@@ -20,6 +20,12 @@
   <a href="https://www.linkedin.com/in/zum-hernandez/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+ <a href="https://www.youtube.com/@Hdz_JD">
+    <img src="https://img.shields.io/badge/Youtube-992222?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
+  </a>
+ <a href="https://www.instagram.com/zum.cpp/">
+    <img src="https://img.shields.io/badge/Instagram-e56969?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
 </div>
 
 

@@ -29,3 +29,4 @@ jobs:
 
           # Configuración del plugin (opcional, para que se vea bien)
           plugin_isocalendar_duration: full-year # Muestra el año completo
+          plugin_isocalendar_theme: catppuccin_mocha

@@ -90,7 +90,7 @@
     <tr>
       <td valign="center" style="padding-right: 15px;">
         <a href="https://codeforces.com/profile/zum">
-          <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-svg-download-png-2944796.png?f=webp&w=256" width="45" alt="Codeforces Logo" style="vertical-align:middle;"/>
+          <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-svg-download-png-2944796.png?f=webp&w=256" width="35" alt="Codeforces Logo" style="vertical-align:middle;"/>
         </a>
       </td>
       <td valign="center">
@@ -102,7 +102,7 @@
     <tr>
       <td valign="center" style="padding-right: 15px;">
         <a href="https://leetcode.com/u/zum04/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="60" alt="LeetCode Logo" style="vertical-align:middle;"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode Logo" style="vertical-align:middle;"/>
         </a>
       </td>
       <td valign="center">
@@ -114,7 +114,7 @@
     <tr>
       <td valign="center" style="padding-right: 15px;">
         <a href="https://cses.fi/user/314973">
-          <img src="https://cses.fi/logo.png?1" width="75" alt="CSES Logo" style="vertical-align:middle;"/>
+          <img src="https://cses.fi/logo.png?1" width="60" alt="CSES Logo" style="vertical-align:middle;"/>
         </a>
       </td>
       <td valign="center">
@@ -124,9 +124,7 @@
       </td>
     </tr>
   </table>
-  
   <br>
-  <p></p>
   <p>... and you can find all my solutions in this repository:</p>
   <a href="https://github.com/zums-stuff/Competitive-Programming">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=zums-stuff&repo=Competitive-Programming&hide_border=false&theme=transparent&title_color=B79BFFD7&text_color=ffffffff&icon_color=B79BFFD7&hide_border=true&border_radius=10" height="150" alt="Proyecto 1" />

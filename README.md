@@ -84,33 +84,39 @@
     <img src="https://leetcard.jacoblin.cool/zum04?font=Fira%20Code&theme=dark&border=0&border_radius=15" height="200" alt="LeetCode Stats" valign="top"/>
   </a>
 
-  <br><br> 
+  <h3>My profiles:</h3>
   <table border="0" cellpadding="10" cellspacing="0">
     <tr>
-      <td valign="middle" style="padding-right: 15px;">
-        <img src="https://cdn.simpleicons.org/codeforces" width="35" alt="Codeforces Logo" style="vertical-align:middle;"/>
+      <td valign="center" style="padding-right: 15px;">
+        <a href="https://codeforces.com/profile/zum">
+          <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-svg-download-png-2944796.png?f=webp&w=256" width="45" alt="Codeforces Logo" style="vertical-align:middle;"/>
+        </a>
       </td>
-      <td valign="middle">
+      <td valign="center">
         <a href="https://codeforces.com/profile/zum" style="text-decoration:none; color:#B79BFFD7; font-size:24px; font-weight:bold; font-family:Verdana, sans-serif;">
           zum
         </a>
       </td>
     </tr>
     <tr>
-      <td valign="middle" style="padding-right: 15px;">
-        <img src="https://cdn.simpleicons.org/leetcode" width="35" alt="LeetCode Logo" style="vertical-align:middle;"/>
+      <td valign="center" style="padding-right: 15px;">
+        <a href="https://leetcode.com/u/zum04/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="60" alt="LeetCode Logo" style="vertical-align:middle;"/>
+        </a>
       </td>
-      <td valign="middle">
-        <a href="https://leetcode.com/u/zum04/" style="text-decoration:none; color:#B79BFFD7; font-size:24px; font-weight:bold; font-family:Verdana, sans-serif;">
+      <td valign="center">
+        <a href="https://leetcode.com/u/zum04/" style="text-decoration:none; color:#B79BFFD7; font-size:24px; font-weight:bold; font-family:Verdana, sans-serif; padding-up:15px;">
           zum04
         </a>
       </td>
     </tr>
     <tr>
-      <td valign="middle" style="padding-right: 15px;">
-        <img src="https://cses.fi/logo.png?1" width="35" alt="CSES Logo" style="vertical-align:middle;"/>
+      <td valign="center" style="padding-right: 15px;">
+        <a href="https://cses.fi/user/314973">
+          <img src="https://cses.fi/logo.png?1" width="75" alt="CSES Logo" style="vertical-align:middle;"/>
+        </a>
       </td>
-      <td valign="middle">
+      <td valign="center">
         <a href="https://cses.fi/user/314973" style="text-decoration:none; color:#B79BFFD7; font-size:24px; font-weight:bold; font-family:Verdana, sans-serif;">
           zum
         </a>
@@ -122,8 +128,8 @@
   <p></p>
   <p>... and you can find all my solutions in this repository:</p>
   <a href="https://github.com/zums-stuff/Competitive-Programming">
-    <img src="https://github.readme-stats.vercel.app/api/pin/?username=zums-stuff&repo=Competitive-Programming&theme=transparent&title_color=B79BFFD7&text_color=ffffffff&icon_color=B79BFFD7&hide_border=true&border_radius=10" alt="Soluciones de CP"/>
-  </a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=zums-stuff&repo=Competitive-Programming&hide_border=false&theme=transparent&title_color=B79BFFD7&text_color=ffffffff&icon_color=B79BFFD7&hide_border=true&border_radius=10" height="150" alt="Proyecto 1" />
+    </a>
   
   <br><br>
 </div>

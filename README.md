@@ -78,11 +78,11 @@
   <p>I solve problems in these platforms:</p>
   
   <a href="https://codeforces.com/profile/zum">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=zum&show_icons=true&theme=dark&rank_icon=github&border_color=00000000&border_radius=15" height="200" alt="Codeforces Stats" valign="top"/>
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=zum&show_icons=true&theme=dark&rank_icon=github&border_color=00000000&border_radius=15" height="150" alt="Codeforces Stats" valign="top"/>
   </a>
   &nbsp;&nbsp; 
   <a href="https://leetcode.com/u/zum04/">
-    <img src="https://leetcard.jacoblin.cool/zum04?font=Fira%20Code&theme=dark&border=0&border_radius=15" height="200" alt="LeetCode Stats" valign="top"/>
+    <img src="https://leetcard.jacoblin.cool/zum04?font=Fira%20Code&theme=dark&border=0&border_radius=15" height="150" alt="LeetCode Stats" valign="top"/>
   </a>
 
   <h3>My profiles:</h3>

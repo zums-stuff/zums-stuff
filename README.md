@@ -77,20 +77,52 @@
   <p>I solve problems in these platforms:</p>
   
   <a href="https://codeforces.com/profile/zum">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=zum&show_icons=true&theme=dark&rank_icon=github&border_color=00000000&v=5" height="200" alt="Codeforces Stats" valign="top"/>
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=zum&show_icons=true&theme=dark&rank_icon=github&border_color=00000000&border_radius=15" height="200" alt="Codeforces Stats" valign="top"/>
   </a>
-  &nbsp;&nbsp; <a href="https://leetcode.com/u/zum04/">
-    <img src="https://leetcard.jacoblin.cool/zum04?font=Fira%20Code&theme=dark&border=0&border_radius=15&v=5" height="200" alt="LeetCode Stats" valign="top"/>
+  &nbsp;&nbsp; 
+  <a href="https://leetcode.com/u/zum04/">
+    <img src="https://leetcard.jacoblin.cool/zum04?font=Fira%20Code&theme=dark&border=0&border_radius=15" height="200" alt="LeetCode Stats" valign="top"/>
   </a>
 
-  <br><br> <a href="https://cses.fi/user/314973">
-    <img src="https://img.shields.io/badge/CSES-Profile-CCB78B?style=for-the-badge&logo=cses&logoColor=white" alt="CSES Profile"/>
-  </a>
+  <br><br> 
+  <table border="0" cellpadding="10" cellspacing="0">
+    <tr>
+      <td valign="middle" style="padding-right: 15px;">
+        <img src="https://cdn.simpleicons.org/codeforces" width="35" alt="Codeforces Logo" style="vertical-align:middle;"/>
+      </td>
+      <td valign="middle">
+        <a href="https://codeforces.com/profile/zum" style="text-decoration:none; color:#B79BFFD7; font-size:24px; font-weight:bold; font-family:Verdana, sans-serif;">
+          zum
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" style="padding-right: 15px;">
+        <img src="https://cdn.simpleicons.org/leetcode" width="35" alt="LeetCode Logo" style="vertical-align:middle;"/>
+      </td>
+      <td valign="middle">
+        <a href="https://leetcode.com/u/zum04/" style="text-decoration:none; color:#B79BFFD7; font-size:24px; font-weight:bold; font-family:Verdana, sans-serif;">
+          zum04
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" style="padding-right: 15px;">
+        <img src="https://cses.fi/logo.png?1" width="35" alt="CSES Logo" style="vertical-align:middle;"/>
+      </td>
+      <td valign="middle">
+        <a href="https://cses.fi/user/314973" style="text-decoration:none; color:#B79BFFD7; font-size:24px; font-weight:bold; font-family:Verdana, sans-serif;">
+          zum
+        </a>
+      </td>
+    </tr>
+  </table>
+  
   <br>
   <p></p>
   <p>... and you can find all my solutions in this repository:</p>
   <a href="https://github.com/zums-stuff/Competitive-Programming">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zums-stuff&repo=Competitive-Programming&hide_border=false&theme=transparent&title_color=B79BFFD7&text_color=ffffffff&icon_color=B79BFFD7&hide_border=true&border_radius=10" alt="Soluciones de CP"/>
+    <img src="https://github.readme-stats.vercel.app/api/pin/?username=zums-stuff&repo=Competitive-Programming&theme=transparent&title_color=B79BFFD7&text_color=ffffffff&icon_color=B79BFFD7&hide_border=true&border_radius=10" alt="Soluciones de CP"/>
   </a>
   
   <br><br>

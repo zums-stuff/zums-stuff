@@ -26,7 +26,7 @@
   <h3>Studying at UNAM School of Engineering</h3>
 </div>
 <hr>
-<h2 align="center">🔨Languages-Frameworks-Tools⛏</h2>
+<h2 align="center">🔨 Languages-Frameworks-Tools ⛏</h2>
 <div align="center">
   <table style="border: 2px solid black;">
     <tr>
@@ -47,7 +47,7 @@
 </div>
 
 
-<h2 align="center">My Outstanding Proyects</h2>
+<h2 align="center">🚧 My Contributions 🚧</h2>
 <div align="center">
 
   <table>
@@ -61,6 +61,7 @@
     </tr>
   </table>
 
+<h2 align="center">🚀 My Outstanding Proyects 🚀</h2>
   <div align="center">
     <a href="https://github.com/zums-stuff/Meteor-Madness">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=zums-stuff&repo=Meteor-Madness&hide_border=false&theme=transparent&title_color=B79BFFD7&text_color=ffffffff&icon_color=B79BFFD7&hide_border=true&border_radius=10" height="100" alt="Proyecto 1" />
@@ -72,7 +73,7 @@
   
 </div>
 
-<h2 align="center">Competitive Programming</h2>
+<h2 align="center">🎈 Competitive Programming 🎈</h2>
 <div align="center">
   <p>I solve problems in these platforms:</p>
   
@@ -130,6 +131,4 @@
   <a href="https://github.com/zums-stuff/Competitive-Programming">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=zums-stuff&repo=Competitive-Programming&hide_border=false&theme=transparent&title_color=B79BFFD7&text_color=ffffffff&icon_color=B79BFFD7&hide_border=true&border_radius=10" height="150" alt="Proyecto 1" />
     </a>
-  
-  <br><br>
 </div>

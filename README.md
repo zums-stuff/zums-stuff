@@ -86,7 +86,7 @@
   </a>
 
   <h3>My profiles:</h3>
-  <table border="0" cellpadding="10" cellspacing="0">
+  <table border="0" cellpadding="10" cellspacing="0" align="center">
     <tr>
       <td valign="center" style="padding-right: 15px;">
         <a href="https://codeforces.com/profile/zum">
